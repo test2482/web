@@ -40,6 +40,7 @@
 .u-section-1 .u-image-4 {
   min-height: 289px;
   background-image: url("images/vlcsnap-2022-03-19-03h49m46s892.png");
+  background-position: 50% 50%;
 }
 
 .u-section-1 .u-container-layout-4 {
@@ -157,7 +158,7 @@
     min-height: 172px;
   }
 }.u-section-2 .u-sheet-1 {
-  min-height: 456px;
+  min-height: 490px;
 }
 
 @media (max-width: 1199px) {
